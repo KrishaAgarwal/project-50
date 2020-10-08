@@ -1,0 +1,21 @@
+h1{
+    color: rgb(91, 170, 201);
+}
+.menu{
+    justify-content: end;
+}
+.header{
+    background-color: moccasin;
+    display: flex;
+    justify-content: space-around;
+}
+.grid{
+    background-color: rgba(221, 160, 221, 0.671) ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+p,li{
+    text-align: center;
+    color: teal;
+}
